@@ -36,6 +36,9 @@ Atopic Dermatitis (AD) will be identified and defined using a validated AD case 
 #### Phototherapy Referral
 - [Phototherapy](https://github.com/MomentumData/Momentum-Data-Codelists/tree/04bf1598119391c98ea45550cc69cf9f6517a17b/Conditions/Phototherapy)
 
-
+#### Dermatology Referral
+Any of:
+- [Specialist Dermatology Referral](https://github.com/MomentumData/Momentum-Data-Codelists/tree/04bf1598119391c98ea45550cc69cf9f6517a17b/Care%20Use/Specialist%20Dermatology%20Referral)
+- [Specialist Dermatology Review](https://github.com/MomentumData/Momentum-Data-Codelists/tree/04bf1598119391c98ea45550cc69cf9f6517a17b/Care%20Use/Specialist%20Dermatology%20Review)
 
 [^1]: Abuabara, Katrina et al. “Development and Validation of an Algorithm to Accurately Identify Atopic Eczema Patients in Primary Care Electronic Health Records from the UK.” The Journal of investigative dermatology vol. 137,8 (2017): 1655-1662. doi:10.1016/j.jid.2017.03.029
