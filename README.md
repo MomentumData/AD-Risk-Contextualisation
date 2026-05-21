@@ -1,4 +1,4 @@
-# AD-Risk-Contextualisation
+ # AD-Risk-Contextualisation
 Codelists, exposure/outcome definitions and algorithms for "A Risk Contextualization Study of Pediatric Atopic Dermatitis (AD) Patients using a Large UK Population-Based Dataset" study.
 
 ## Quality control
@@ -61,6 +61,48 @@ In addition to the criteria listed above for vitiligo, patients with any of the 
    - Herpes viral hepatitis
    - Herpesvirus encephalitis
    - Disseminated herpes viral disease  
+ - [Psoriasis](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c05db2366ed8eadebd798be25c33491863879644/Conditions/Psoriasis)
+ - [Seborrheic Dermatitis]()
+ - [Systemic lupus erythematosus](https://github.com/MomentumData/Momentum-Data-Codelists/tree/3b3ca570d00ca028fa8b5d320213b34f07c9b4cc/Conditions/Systemic%20lupus%20erythematosus)
+ - [Skeletal Dysplasia]()
+ - []()
+ - []()
+ - []()
+ - []()
+ - []()
+ - []()
+ - []()
+ - []()
+ - []()
+ - []()
+ - []()
+ - []()
+ - []()
+ - []()
+ - []()
+ - []()
+ - []()
+ - []()
+ - []()
+ - []()
+ - []()
+ - []()
+ - []()
+ - []()
+ - []()
+ - []()
+ - []()
+ - []()
+ - []()
+ - []()
+ - []()
+ - []()
+ - []()
+ - []()
+ - []()
+ - []()
+
+
 
 
 
@@ -179,7 +221,7 @@ People identified with the respective diagnosis codes recorded in primary or sec
  - Autoimmune thyroditis:
        - Defined by algorithm: A code for [Hashimoto's](https://github.com/MomentumData/Momentum-Data-Codelists/tree/3b3ca570d00ca028fa8b5d320213b34f07c9b4cc/Conditions/Hashimoto's%20Thyroditis) OR a code for [non-specific hypothyroidism](https://github.com/MomentumData/Momentum-Data-Codelists/tree/3b3ca570d00ca028fa8b5d320213b34f07c9b4cc/Conditions/Non-Specific%20Hypothyroidism) AND no code for [non-autoimmune hypothyroidism](https://github.com/MomentumData/Momentum-Data-Codelists/tree/3b3ca570d00ca028fa8b5d320213b34f07c9b4cc/Conditions/Non-Autoimmune%20Hypothyroidism)
  - [Rheumatoid arthritis](https://github.com/MomentumData/Momentum-Data-Codelists/tree/3b3ca570d00ca028fa8b5d320213b34f07c9b4cc/Conditions/RA%20(Rheumatoid%20Arthritis))
- - [Systemic lupus erythematosus](https://github.com/MomentumData/Momentum-Data-Codelists/tree/3b3ca570d00ca028fa8b5d320213b34f07c9b4cc/Conditions/Systemic%20lupus%20erythematosus)
+
  - [Sjorgen's Syndrome](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c05db2366ed8eadebd798be25c33491863879644/Conditions/Sjorgen's%20Syndrome)
  - [Mysathenia Gravis](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c05db2366ed8eadebd798be25c33491863879644/Conditions/Myasthenia%20Gravis)
  - [Systemic sclerosis](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c05db2366ed8eadebd798be25c33491863879644/Conditions/Systemic%20Sclerosis)
@@ -187,7 +229,7 @@ People identified with the respective diagnosis codes recorded in primary or sec
    - [Epidermolysis bullosa](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c05db2366ed8eadebd798be25c33491863879644/Conditions/Epidermolysis%20Bullosa)
    - [Pemphigus vulgaris](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c05db2366ed8eadebd798be25c33491863879644/Conditions/Pemphigus%20Vulgaris)
    - [Bullous pemphigoid](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c05db2366ed8eadebd798be25c33491863879644/Conditions/Bullous%20Pemphigoid)
- - [Psoriasis](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c05db2366ed8eadebd798be25c33491863879644/Conditions/Psoriasis)
+
  - [Pernicious anemia](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c05db2366ed8eadebd798be25c33491863879644/Conditions/Pernicious%20Anaemia)
  - [Hearing loss](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c05db2366ed8eadebd798be25c33491863879644/Conditions/Hearing%20Loss)
  - [Alopecia areata](https://github.com/MomentumData/Momentum-Data-Codelists/tree/c05db2366ed8eadebd798be25c33491863879644/Conditions/Alopecia%20Areata)
